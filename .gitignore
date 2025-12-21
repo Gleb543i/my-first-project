@@ -1,0 +1,14 @@
+# Python virtual environment
+   venv/
+   .env
+   
+   # Compiled bytecode cache
+   __pycache__/
+   *.pyc
+   
+   # Common settings directories
+   .vscode/
+   .idea/
+   
+   # Log files
+   logs/*.log
